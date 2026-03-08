@@ -100,7 +100,7 @@ a{
   display:flex;
   justify-content:center;
   align-items:center;
-  padding:12px 20px;
+  padding:35px 20px;
 }
 
 .logoBar img{
@@ -891,4 +891,5 @@ footer p{
     font-size:18px;
     letter-spacing:2px;
   }
+
 }
